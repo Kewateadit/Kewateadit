@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hi, I'm Kewateadit ✨
 
 💡 Developer with a passion for creativity  
