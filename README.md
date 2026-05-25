@@ -1,13 +1,13 @@
-
-## Hi, I'm Kewateadit ✨
-
-###
-
+##
 <div align="center">
-  <img height="264" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"  />
+  <img 
+    width="100%" 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="Coding animation"
+  />
 </div>
 
-###
+##  Hi, I'm Kewateadit ✨
 
 💡 Developer with a passion for creativity  
 🚀 Building projects and learning new technologies  
